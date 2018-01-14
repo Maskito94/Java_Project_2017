@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News Feed</string>
+    <string name= "lien">Lire l article</string>
+    <string name ="chargement">Chargement...</string>
+    <string name="textview">TextView</string>
+    <string name="image">image</string>
+</resources>
